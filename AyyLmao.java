@@ -1,19 +1,22 @@
 public class AyyLmao{
    public static void main (String[] args) {
-   System.out.println("       _________             ");
-   System.out.println("      /         \\      ");
-   System.out.println("     /           \\ ");
-   System.out.println("    |             |      ");
-   System.out.println("    |       _     | ");
-   System.out.println("     \\ .   | |   / ");
-   System.out.println("      \\__L_|_|__/        ");
-   System.out.println("   ///          \\\\\\   ");
-   System.out.println("  ///  _ _ _ _   \\\\\\            ");
-   System.out.println("      | | | | |_              ");
-   System.out.println("      |_|_|_|_| |                ");
-   System.out.println("      \\        /      ");
-   System.out.println("       \\______/        ");
-   System.out.println("       |      |        ");
+   String GetRektSonny =
+   "       _________             \n"+
+   "      /         \\      \n"+
+   "     /           \\ \n"+
+   "    |             |      \n"+
+   "    |       _     | \n"+
+   "     \\ .   | |   / \n"+
+   "      \\__L_|_|__/        \n"+
+   "   ///          \\\\\\   \n"+
+   "  ///  _ _ _ _   \\\\\\            \n"+
+   "      | | | | |_              \n"+
+   "      |_|_|_|_| |                \n"+
+   "      \\        /      \n"+
+   "       \\______/        \n"+
+   "       |      |        ";
+   System.out.println(GetRektSonny);
+   
    System.out.println("       |      |        ");
    System.out.println("       |      |        ");
    System.out.println("       |      |        ");
@@ -21,7 +24,8 @@ public class AyyLmao{
    System.out.println("       |      |        ");
    System.out.println("       |      |        ");
    
-
+   
+   
 
 
 
